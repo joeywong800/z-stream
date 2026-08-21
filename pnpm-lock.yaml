@@ -1,4 +1,4 @@
-lockfileVersion: '9.0'
+lockfileVersion: '9.1'
 
 settings:
   autoInstallPeers: true
@@ -42,9 +42,9 @@ importers:
       '@noble/hashes':
         specifier: ^1.8.0
         version: 1.8.0
-      '@p-stream/providers':
-        specifier: github:p-stream/providers#production
-        version: https://codeload.github.com/p-stream/providers/tar.gz/0a6ebbd7eed6a2e8103b8b306bc633abd7d97874
+      '@joeywong800/providers':
+        specifier: github:joeywong800/providers#production
+        version: https://codeload.github.com/joeywong800/providers/tar.gz/0a6ebbd7eed6a2e8103b8b306bc633abd7d97874
       '@plasmohq/messaging':
         specifier: ^0.6.2
         version: 0.6.2(react@18.3.1)
