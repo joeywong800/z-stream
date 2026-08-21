@@ -1,5 +1,5 @@
 {
-  "packageManager": "pnpm@9.14.4",
+  "packageManager": "pnpm@11.22.0",
   "name": "z-stream",
   "version": "5.3.7",
   "private": true,
