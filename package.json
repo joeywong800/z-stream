@@ -1,5 +1,5 @@
 {
-  "packageManager": "pnpm@11.22.0",
+  "packageManager": "pnpm@9.14.4",
   "name": "z-stream",
   "version": "5.3.7",
   "private": true,
@@ -125,7 +125,7 @@
     "tailwindcss-themer": "^4.1.1",
     "type-fest": "^4.41.0",
     "typescript": "^5.9.3",
-    "vite": "^8.2.2",
+    "vite": "^5.4.21",
     "vite-plugin-checker": "^0.6.4",
     "vite-plugin-package-version": "^1.1.0",
     "vite-plugin-pwa": "^0.17.5",
