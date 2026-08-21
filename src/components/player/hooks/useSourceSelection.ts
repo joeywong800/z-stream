@@ -2,7 +2,7 @@ import {
   EmbedOutput,
   NotFoundError,
   SourcererOutput,
-} from "@joeywong800/providers";
+} from "@z-stream/providers";
 import { useAsyncFn } from "react-use";
 
 import { isExtensionActiveCached } from "@/backend/extension/messaging";
