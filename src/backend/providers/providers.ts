@@ -2,7 +2,7 @@ import {
   makeProviders,
   makeStandardFetcher,
   targets,
-} from "@joeywong800/providers";
+} from "@z-stream/providers";
 
 import { isExtensionActiveCached } from "@/backend/extension/messaging";
 import {
